@@ -3,3 +3,4 @@
 Estado del royecto: en construccion
 
 Para ejecutar el sistema debes poner:
+```npm install react```
